@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
-Mantenerme a la vanguardia del ámbito diseño de nuevas soluciones informáticas, mediante el trabajo constante y la actualización continua. Contribuir con los objetivos de la empresa; Siempre buscaqueda de nuevos retos que superar y cosas establecidas que mejorar.
+Mantenerme a la vanguardia del ámbito diseño de nuevas soluciones informáticas, mediante el trabajo constante y la actualización continua. Buscaqueda de nuevos retos que superar y cosas establecidas que mejorar.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -13,8 +13,6 @@ Mantenerme a la vanguardia del ámbito diseño de nuevas soluciones informática
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket)&nbsp;
