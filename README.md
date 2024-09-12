@@ -1,8 +1,8 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
-Considero que soy un artista de la programación, disfruto convirtiendo las ideas en código y haciendo que los proyectos se materialicen. Me gusta desafiarme constantemente para mejorar mi rendimiento y superar los objetivos establecidos.
+Me gusta pensar que soy un artista del código, disfrutando cada línea que convierte ideas en realidad. Los retos me impulsan a mejorar constantemente y a superar cualquier meta que se cruce en mi camino.
 
-Tengo la capacidad de trabajar de manera autónoma y en equipo me adapto a los cambios.
+Puedo trabajar solo o en equipo sin problema, y los cambios no me asustan
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
