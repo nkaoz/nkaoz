@@ -1,28 +1,65 @@
-## 👨🏻‍💻 &nbsp;About Me
+# 👋 Hola, soy Neil Ruiz Dorador
 
-Me gusta pensar que soy un artista del código, disfrutando cada línea que convierte ideas en realidad. Los retos me impulsan a mejorar constantemente y a superar cualquier meta que se cruce en mi camino.
+<div align="center">
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="320"/>
+</div>
 
-Puedo trabajar solo o en equipo sin problema, y los cambios no me asustan
+---
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+## 👨🏻‍💻 About Me
 
-### 🛠 &nbsp;Tech Stack
+💡 Apasionado por el desarrollo web, la automatización y la optimización de experiencias digitales.  
+🚀 Disfruto transformar ideas en productos funcionales, escalables y visualmente atractivos.  
+🎯 Los retos son parte de mi motivación diaria y siempre busco mejorar tanto a nivel técnico como profesional.  
+🤝 Me adapto fácilmente al trabajo en equipo, aunque también puedo liderar y trabajar de forma autónoma.  
+⚡ Me gusta experimentar con nuevas tecnologías, crear herramientas útiles y optimizar procesos.  
+📈 Actualmente enfocado en:
+- SEO Técnico
+- Frontend Engineering
+- Automatización
+- CRO & Analytics
+- Extensiones para Chrome
+- Arquitectura de componentes y herramientas UI
 
+---
+
+## 🛠 Tech Stack
+
+### 🚀 Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)&nbsp;
-![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress)&nbsp;
-![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)&nbsp;
-![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)&nbsp;
+
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json)&nbsp;
+
+### 🧰 Tools & Workflow
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)&nbsp;
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
+
+### 🌐 CMS & Platforms
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)&nbsp;
+
+---
+
+## 📊 Current Focus
+
+```txt
+✔ SEO Audit Tools
+✔ Chrome Extensions
+✔ Frontend Architecture
+✔ Automation Scripts
+✔ Adobe Target & Analytics
+✔ Technical SEO
+✔ Performance Optimization
