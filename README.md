@@ -44,31 +44,37 @@ Trabajo con equipos de Growth, Martech, negocio, analítica, arquitectura, infra
 ### 🎯 Personalización digital
 
 **Problema:** mostrar productos relevantes a usuarios pertenecientes a campañas específicas sin solicitar inicio de sesión.
+
 **Solución:** integración de Adobe Target con Actions en Adobe I/O Runtime y una API interna protegida mediante OAuth 2.0. Se utilizó caché en el navegador para reducir llamadas repetidas y Adobe Analytics para medir interacción y conversión.
-**Stack:** `Adobe Target` `App Builder` `Adobe I/O Runtime` `Node.js` `TypeScript` `OAuth 2.0`
+
+**Stack:** [![Adobe Target](https://img.shields.io/badge/Adobe%20Target-EB1000?style=flat-square&logo=adobe)](https://experienceleague.adobe.com/docs/target.html) [![App Builder](https://img.shields.io/badge/App%20Builder-EB1000?style=flat-square&logo=adobe)](https://developer.adobe.com/app-builder/) [![Adobe I/O Runtime](https://img.shields.io/badge/Adobe%20I%2FO%20Runtime-EB1000?style=flat-square&logo=adobe)](https://developer.adobe.com/runtime/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-000000?style=flat-square)](https://oauth.net/2/)
 
 ### ⚙️ Automatización para Adobe Target
 
 **Problema:** la preparación manual de experiencias generaba tareas repetitivas y riesgo de inconsistencias.
+
 **Solución:** herramienta CLI para compilar estilos, combinar bloques de contenido, minificar código y generar archivos preparados para validación y publicación.
-**Stack:** `Node.js` `Sass` `Terser` `Chrome Remote Interface` `Git`
+
+**Stack:** [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) [![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/) [![Terser](https://img.shields.io/badge/Terser-5E5E5E?style=flat-square)](https://terser.org/) [![Chrome Remote Interface](https://img.shields.io/badge/Chrome%20Remote%20Interface-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/cyrus-and/chrome-remote-interface) [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 ### 🔍 SEO Audit Toolkit
 
 **Problema:** la revisión manual de elementos SEO y estructura HTML requería múltiples herramientas.
+
 **Solución:** extensión Chrome Manifest V3 para auditar headings, enlaces, imágenes, metadatos, canonical y estructura del DOM.
-**Stack:** `TypeScript` `JavaScript` `Chrome Extension APIs` `HTML` `CSS`
+
+**Stack:** [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript) [![Chrome Extension APIs](https://img.shields.io/badge/Chrome%20Extension%20APIs-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/extensions/) [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 
 ---
 
 ## 🧰 Stack principal
 
-**Adobe:** `Target` `Analytics` `Launch` `AEP Web SDK` `App Builder` `I/O Runtime`
-**Frontend:** `TypeScript` `JavaScript` `React` `HTML5` `CSS3` `Sass`
-**Backend:** `Node.js` `PHP` `Laravel` `Python` `REST APIs` `OAuth 2.0`
-**Datos:** `MySQL` `MariaDB` `PostgreSQL` `Teradata`
-**Plataformas:** `Liferay` `Acoustic Content Hub` `Docker` `Linux`
-**Workflow:** `Git` `Bitbucket` `Jira` `Scrum` `UAT` `Producción`
+- **Adobe:** `Target` `Analytics` `Launch` `AEP Web SDK` `App Builder` `I/O Runtime`
+- **Frontend:** `TypeScript` `JavaScript` `React` `HTML5` `CSS3` `Sass`
+- **Backend:** `Node.js` `PHP` `Laravel` `Python` `REST APIs` `OAuth 2.0`
+- **Datos:** `MySQL` `MariaDB` `PostgreSQL` `Teradata`
+- **Plataformas:** `Liferay` `Acoustic Content Hub` `Docker` `Linux`
+- **Workflow:** `Git` `Bitbucket` `Jira` `Scrum` `UAT` `Producción`
 
 ---
 
