@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Temporary and backup files
+*.swp
+*.swo
+*~
+*.tmp
+_README.md
